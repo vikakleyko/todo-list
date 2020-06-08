@@ -1,3 +1,11 @@
+# Description
+
+To To list built with ReactJS
+
+# API
+
+https://jsonplaceholder.typicode.com/todos
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
