@@ -1,6 +1,6 @@
 # Description
 
-To To list built with ReactJS
+To do list built with ReactJS
 
 # API
 
