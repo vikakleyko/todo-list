@@ -1,8 +1,8 @@
-# Description
+## Description
 
 To do list built with ReactJS
 
-# API
+## API
 
 https://jsonplaceholder.typicode.com/todos
 
